@@ -45,6 +45,71 @@ BSC.Hons in Information Technology Specialized in Software Engineering
 
 ---
 
+### 🚀 Featured Projects & Repositories
+
+<div align="center">
+  <a href="https://github.com/3chathurajayashan/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3chathurajayashan&repo=repo1&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/3chathurajayashan/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3chathurajayashan&repo=repo2&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/3chathurajayashan/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3chathurajayashan&repo=repo3&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/3chathurajayashan/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3chathurajayashan&repo=repo4&theme=radical&hide_border=true" />
+  </a>
+</div>
+
+---
+
+### 💼 Professional Experience Timeline
+```mermaid
+%%{init: {'theme':'dark'}}%%
+gantt
+    title Career & Learning Journey
+    dateFormat  YYYY-MM
+    section Education
+    SLIIT - BSc IT (SE)           :2022-01, 2026-12
+    section Projects
+    E-Commerce Platform           :2023-06, 2023-12
+    AI Car Recommendation         :2024-01, 2024-06
+    Hospital Management System    :2023-03, 2023-08
+    section Learning
+    Cloud & DevOps Mastery        :2024-01, 2025-12
+    AI/ML Research                :2023-09, 2025-12
+```
+
+---
+
+### 🎯 Current Focus & Goals
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/source-code.png"/>
+      <br><strong>Code Quality</strong>
+      <br><sub>Clean Architecture & Design Patterns</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/cloud.png"/>
+      <br><strong>Cloud Native</strong>
+      <br><sub>Microservices & Serverless Architecture</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png"/>
+      <br><strong>AI Integration</strong>
+      <br><sub>LLMs & Intelligent Automation</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 Performance & Statistics
 
 <div align="center">
@@ -67,6 +132,81 @@ BSC.Hons in Information Technology Specialized in Software Engineering
 
 ---
 
+### 🏅 Certifications & Achievements
+
+<div align="center">
+
+| Certification | Issuer | Status |
+|:---:|:---:|:---:|
+| 🎓 AWS Certified Solutions Architect | Amazon Web Services | In Progress |
+| 🎓 Certified Kubernetes Administrator | CNCF | Planned |
+| 🎓 Professional Scrum Master I | Scrum.org | Planned |
+| 🏆 Hackathon Winner | SLIIT CodeFest 2024 | ✅ Achieved |
+
+</div>
+
+---
+
+### 💡 Latest Blog Posts & Insights
+
+<!-- BLOG-POST-LIST:START -->
+<div align="center">
+  
+  📝 [Building Scalable Microservices with Spring Boot](#) • *Jan 2026*
+  
+  📝 [Docker vs Kubernetes: When to Use What](#) • *Dec 2025*
+  
+  📝 [AI-Powered Code Reviews: The Future](#) • *Nov 2025*
+  
+</div>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🎮 Hobbies & Interests
+
+<div align="center">
+  <img src="https://img.shields.io/badge/-Open_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tech_Blogging-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Competitive_Coding-E7352C?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloud_Labs-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CTF_Challenges-000000?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</div>
+
+---
+
+### 🌐 Development Philosophy
+
+> **"Code is poetry written for machines to execute and humans to maintain."**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🎨<br/><strong>Clean Code</strong></td>
+      <td align="center">🔒<br/><strong>Security First</strong></td>
+      <td align="center">⚡<br/><strong>Performance</strong></td>
+      <td align="center">🧪<br/><strong>Test Driven</strong></td>
+      <td align="center">📚<br/><strong>Documentation</strong></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 15 mins  ████████████░░░░░░░░░  48.2%
+Java         7 hrs 30 mins   ███████░░░░░░░░░░░░░░  29.5%
+Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  14.8%
+YAML         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░   4.6%
+Other        45 mins         ░░░░░░░░░░░░░░░░░░░░░   2.9%
+```
+<!--END_SECTION:waka-->
+
+---
+
 ### 📫 Connect & Collaborate
 <div align="center">
   <a href="https://linkedin.com/in/chathura-jayashan" target="_blank">
@@ -75,11 +215,27 @@ BSC.Hons in Information Technology Specialized in Software Engineering
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://twitter.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
 </div>
 
 <br />
 
+### 💬 Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+---
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer"/>
+  
+  ### ⭐ Show some love by starring repositories you find interesting!
+  
+  <img src="https://visitcount.itsvg.in/api?id=3chathurajayashan&label=Total%20Profile%20Visits&color=0&icon=0&pretty=true" />
 </div>
