@@ -1,16 +1,62 @@
-## Hi there 👋
+## Hi there 👋 I’m Chathura (aka **Chathuu**)
 
-<!--
-**3chathurajayashan/3chathurajayashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Undergraduate @ SLIIT**  
+🌍 **Sri Lanka**  
+💻 **Full-Stack Developer | Future AI & DevOps Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 Currently working on **Full-Stack Web Applications**
+- 🌱 Learning **React, Spring Boot, Node.js, Docker, Cloud & AI/ML**
+- 🧠 Interested in **DevOps, Cloud Computing & Artificial Intelligence**
+- 💬 Ask me about **Java, JavaScript, React, MERN, Spring Boot, MySQL**
+- 🎯 Goal: Become a **high-impact software engineer**
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+- React.js
+- HTML, CSS, JavaScript
+- React Native (Expo)
+
+**Backend**
+- Java (Spring Boot)
+- Node.js, Express.js
+
+**Databases**
+- MySQL
+- MongoDB
+
+**DevOps & Tools**
+- Docker
+- Git & GitHub
+- Linux
+- VS Code
+
+**Currently Exploring**
+- CI/CD Pipelines
+- AWS Cloud
+- AI / Machine Learning
+
+---
+
+### 📌 Projects
+- 🛒 MERN E-Commerce Platform (Pharmacy-based system)
+- 🚗 Car Dealing Web App (React + Spring Boot + MySQL + AI)
+- 🎓 Campus Lost & Found System
+- 🏥 Hospital Patient Management System
+
+---
+
+### 📫 How to Reach Me
+- 💼 GitHub: https://github.com/3chathurajayashan
+- 📧 Email: your-email@example.com
+- 💬 LinkedIn: your-link-here
+
+---
+
+### ⚡ Fun Fact
+I love turning **complex ideas into simple, clean code** ✨
