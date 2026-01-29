@@ -85,23 +85,30 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=3chathurajayashan&show_icons=true&theme=radical"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=3chathurajayashan&theme=radical"
-    height="170"
-  />
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=3chathurajayashan&layout=compact&theme=radical"
-    height="160"
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=3chathurajayashan&show_icons=true&theme=radical&hide_border=true" 
+    height="170" 
+    alt="GitHub Stats" 
   />
-</p>
+  <img 
+    src="https://streak-stats.demolab.com?user=3chathurajayashan&theme=radical&hide_border=true" 
+    height="170" 
+    alt="GitHub Streak" 
+  />
+</div>
+
+<br />
+
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=3chathurajayashan&layout=compact&theme=radical&hide_border=true" 
+    height="170" 
+    alt="Top Languages" 
+  />
+</div>
 
 
 ---
