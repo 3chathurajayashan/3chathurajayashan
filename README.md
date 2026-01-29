@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chathura%20Jayashan&fontSize=70&animation=fadeIn&fontAlignY=35" />
-
+ 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Chathura%20Jayashan&fontSize=70&animation=fadeIn&fontAlignY=35" />
   <h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
