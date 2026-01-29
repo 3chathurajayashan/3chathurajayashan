@@ -141,7 +141,7 @@ gantt
 | 🎓 AWS Certified Solutions Architect | Amazon Web Services | In Progress |
 | 🎓 Certified Kubernetes Administrator | CNCF | Planned |
 | 🎓 Professional Scrum Master I | Scrum.org | Planned |
-| 🏆 Hackathon Winner | SLIIT CodeFest 2024 | ✅ Achieved |
+| 🏆 Project Competition Winner | HayCarb System  | ✅ Achieved |
 
 </div>
 
