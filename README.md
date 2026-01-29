@@ -5,15 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=3chathurajayashan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/3chathurajayashan">
-    <img src="https://img.shields.io/github/followers/3chathurajayashan?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-  <a href="https://github.com/3chathurajayashan">
-    <img src="https://img.shields.io/github/stars/3chathurajayashan?label=Stars&style=social" alt="Stars">
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -72,32 +63,35 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛒 **[MERN E-Commerce Platform](#)** | Full-featured pharmacy management system | MongoDB, Express, React, Node.js |
-| 🚗 **[AI Car Recommendation System](#)** | Smart vehicle recommendation using ML | Python, TensorFlow, React |
-| 🎓 **[Campus Lost & Found](#)** | Web app for campus item tracking | React, Spring Boot, MySQL |
-| 🏥 **[Hospital Management System](#)** | Patient management solution | Java, MySQL, Swing |
+### 🛒 MERN E-Commerce Platform
+Pharmacy-based system with full e-commerce functionality
+- **Tech Stack:** MongoDB, Express.js, React, Node.js
+- **Features:** User authentication, product management, shopping cart, payment integration
+
+### 🚗 AI-Powered Car Recommendation System
+Smart vehicle recommendation engine using machine learning
+- **Tech Stack:** Python, TensorFlow, React, Flask
+- **Features:** Personalized recommendations, ML algorithms, interactive UI
+
+### 🎓 Campus Lost & Found Web App
+Web application for tracking lost and found items on campus
+- **Tech Stack:** React, Spring Boot, MySQL
+- **Features:** Item reporting, search functionality, user notifications
+
+### 🏥 Hospital Patient Management System
+Comprehensive patient management solution
+- **Tech Stack:** Java, MySQL, Swing
+- **Features:** Patient records, appointment scheduling, inventory management
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3chathurajayashan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3chathurajayashan&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3chathurajayashan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3chathurajayashan&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
-</p>
+## 📊 GitHub Activity
+```text
+🔥 Streak: Building projects daily
+⭐ Focus: Full-Stack Development & DevOps
+💻 Active in: Java, JavaScript, Python
+🌱 Currently Learning: Cloud Technologies & AI/ML
+```
 
 ---
 
@@ -119,10 +113,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
 
 ### ⚡ Fun Fact
 > I don't just write code — I **engineer solutions** 🧠🔥
