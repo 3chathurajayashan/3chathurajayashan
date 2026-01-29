@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Chathura%20Jayashan&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Web+Developer;AI+%26+DevOps+Enthusiast;I+Engineer+Solutions+🧠🔥" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=200&section=header&text=Chathura%20Jayashan&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
+</div>
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=3chathurajayashan&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
