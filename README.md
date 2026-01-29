@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Chathura%20Jayashan&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&text=Chathura%20Jayashan&fontColor=ffffff&height=200&section=header&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</div>
+
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Architect+%7C+DevSecOps;Cloud+Infrastructure+%26+Automation;AI+%2F+Machine+Learning+Researcher" alt="Typing SVG" />
 
