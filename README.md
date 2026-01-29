@@ -11,7 +11,7 @@
 
 ---
 
-### 💫 Professional Summary
+### Who is Chathura Jayashan
 I am a **Software Engineering Undergraduate** at **SLIIT** specialized in high-availability systems and automated infrastructure. My approach combines **Full-Stack Development** with a rigorous **DevSecOps** mindset, ensuring that applications are not only feature-rich but also scalable, secure, and intelligently driven by **AI/ML** frameworks.
 
 ---
