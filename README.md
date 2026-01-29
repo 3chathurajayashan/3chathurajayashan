@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chathura Jayashan</h1>
+<h1 align="center">Folks! it's Chathura Jayashan</h1>
 <h3 align="center">Software Engineering Undergraduate | Full-Stack Developer | AI & DevOps Enthusiast</h3>
 
 <p align="center">
